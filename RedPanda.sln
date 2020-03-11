@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPanda.DataAccess", "RedPanda\RedPanda.DataAccess.csproj", "{4A1E42C5-F755-4D63-B59B-80E0155736E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPanda.DataAccess.Tests", "RedPanda.DataAccess.Tests\RedPanda.DataAccess.Tests.csproj", "{0E9C592A-A07B-42A7-BBF0-F5A8BFEA4ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPanda.Kernel", "RedPanda.Kernel\RedPanda.Kernel.csproj", "{13C241D3-FEA0-4CFC-92F8-49186E24050F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A1E42C5-F755-4D63-B59B-80E0155736E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1E42C5-F755-4D63-B59B-80E0155736E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1E42C5-F755-4D63-B59B-80E0155736E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1E42C5-F755-4D63-B59B-80E0155736E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9C592A-A07B-42A7-BBF0-F5A8BFEA4ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9C592A-A07B-42A7-BBF0-F5A8BFEA4ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9C592A-A07B-42A7-BBF0-F5A8BFEA4ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9C592A-A07B-42A7-BBF0-F5A8BFEA4ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C241D3-FEA0-4CFC-92F8-49186E24050F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C241D3-FEA0-4CFC-92F8-49186E24050F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C241D3-FEA0-4CFC-92F8-49186E24050F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C241D3-FEA0-4CFC-92F8-49186E24050F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947B503B-AF8F-4298-A1DA-0EAB6672EB0E}
+	EndGlobalSection
+EndGlobal
